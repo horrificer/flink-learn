@@ -1,4 +1,4 @@
-package com;
+package com.easydemo;
 
 
 import org.apache.flink.api.common.functions.FlatMapFunction;

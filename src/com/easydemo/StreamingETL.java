@@ -1,4 +1,4 @@
-package com;
+package com.easydemo;
 
 
 import com.fasterxml.jackson.databind.node.ObjectNode;
